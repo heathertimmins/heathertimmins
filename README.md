@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @heathertimmins
-- 👀 I’m interested in all things web
-- 🌱 I’m currently learning more about .NET MVC, JQuery, C#, SQL Server
-- 📫 How to reach me heather.timmins2@gmail.com
-
-<!---
-heathertimmins/heathertimmins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi! I’m Heather (aka Hev) 👩‍💻
+- 💻 Full Stack .NET Developer based in Leeds
+- 🎯 Working with .NET 8, C#, SQL Server, Entity Framework, MVC, and Dapper  
+- 🎨 Front-end style:  Clean, modern and bold UI's.
+- 📊 Passionate about building useful tools—like stock trackers, business finders and checkout bots (for personal use)
+- 🔗 Always exploring new APIs and creative side projects  
+- 📫 Reach me at: heather.timmins2@gmail.com
